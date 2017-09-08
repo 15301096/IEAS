@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IEAS</string>
+    <string name="drink">接\t   水</string>
+    <string name="medicine">取\t\t药</string>
+</resources>
